@@ -18,3 +18,5 @@
 3.帖子表（bbs_post）<br>
 4.帖子分类表（bbs_category）<br>
 5.评论表（bbs_comment）<br>
+
+![image](image.png)
