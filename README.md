@@ -19,4 +19,4 @@
 4.帖子分类表（bbs_category）<br>
 5.评论表（bbs_comment）<br>
 
-![image](QQ截图20190625110549.jpgg)
+![image](image.png)
